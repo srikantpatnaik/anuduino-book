@@ -2,7 +2,7 @@
 README
 ======
 
-This repository contains simple to advance projects based on
+This repository will host projects based on
 `anuduino <http://github.com/androportal/anuduino/blob/master/doc/getting_started.rst>`_. 
 
 The attempt is to compile a ``free book`` for community. 
