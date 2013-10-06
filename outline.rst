@@ -63,6 +63,10 @@ List of Acronyms
 		* Introduction to PWM
 		* Controlling luminosity of LED
 
+	+ Relay
+
+		* Controlling AC devices through relay
+
 	
 - Chapter 5: Interfacing LCD & Keyboard
 
@@ -96,8 +100,8 @@ List of Acronyms
 
 	+ Types of motors
 
-		* dc motors
-		* servo motors
+		* dc motor interfacing
+		* servo motor interfacing
 		
 	
 - Chapter 8: Communication
@@ -125,10 +129,12 @@ List of Acronyms
 
 		* location based applications ?
 
-	+ RF modules
+	+ RF based
 
 		* interfacing Bluetooth
 		* interfacing Zigbee
+		* interfacing RFID
+		* interfacing NFC 
 
 |
 
