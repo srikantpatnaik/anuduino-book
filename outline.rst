@@ -50,8 +50,6 @@ List of Acronyms
 		* interrupts
 		* communication
 
-|
-|
 
 - Chapter 4: Getting started with Anuduino
 
@@ -116,10 +114,6 @@ List of Acronyms
 
 		* USB HID device emulation
 
-|
-|
-|
-|
 
 - Chapter 9: Miscellaneous modules
 
@@ -136,7 +130,6 @@ List of Acronyms
 		* interfacing Bluetooth
 		* interfacing Zigbee
 
-|
 |
 
 Appendix I: Projects
