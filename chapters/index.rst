@@ -18,6 +18,7 @@ Contents:
    chapter_6
    chapter_7
    chapter_8
+   chapter_9
 
 Indices and tables
 ==================
