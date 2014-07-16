@@ -11,6 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   chapter_1
    chapter_2
    chapter_3
    chapter_4
