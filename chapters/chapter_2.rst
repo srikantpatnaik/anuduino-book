@@ -28,7 +28,7 @@ Anuduino Circuit Diagram
 Anuduino Board Schematic Diagram
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. .. image:: ../images/attiny85_schematic_1_(3).png
+.. .. image:: ../images/attiny85_schematic_1_\(3\).png
   :width: 80%
 
 
