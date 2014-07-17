@@ -20,6 +20,7 @@ Contents:
    chapter_7
    chapter_8
    chapter_9
+   faq
 
 Indices and tables
 ==================
