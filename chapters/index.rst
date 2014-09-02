@@ -6,7 +6,7 @@
 Anuduino Book
 =============
 
-Contents:
+..  Contents:
 
 .. toctree::
    :maxdepth: 2
@@ -22,10 +22,10 @@ Contents:
    chapter_9
    faq
 
-Indices and tables
-==================
+.. Indices and tables
+..  ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
 
